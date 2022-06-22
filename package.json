@@ -1,5 +1,5 @@
 {
-  "name": "passwd-gen",
+  "name": "@yvain/passwd-gen",
   "version": "1.0.0",
   "description": "A password generator",
   "main": "index.js",
